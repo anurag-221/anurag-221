@@ -13,11 +13,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anurag-221&theme=github_dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-221&theme=github_dark&hide_border=true&layout=compact&cache_seconds=21600)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anurag-ayasya&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=21600)
-![](https://github-readme-streak-stats.herokuapp.com/?user=anurag-ayasya&theme=github_dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-ayasya&theme=github_dark&hide_border=true&layout=compact&cache_seconds=21600)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
